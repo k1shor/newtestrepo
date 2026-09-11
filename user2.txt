@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-User2
-username : User2
-=======
-username: User2
->>>>>>> f2983068b9e355bface9d5b24b24af7b0add436c
-email: user2@gmail.com

@@ -1,2 +1,0 @@
-User1 : User1
-Email: user1@something.com
